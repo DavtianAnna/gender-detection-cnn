@@ -1,7 +1,7 @@
-# 👨‍💻 Gender Detection using CNN 🧠📸
+# ♀️♂️ Gender Detection using CNN 
 
 This repository presents a deep learning approach for **gender classification** using **Convolutional Neural Networks (CNNs)**.  
-The project covers **data preprocessing, model training, and evaluation** with Python and popular ML libraries. 🚀
+The project covers **data preprocessing, model training, and evaluation** with Python and popular ML libraries. 
 
 ---
 
@@ -10,8 +10,8 @@ The project covers **data preprocessing, model training, and evaluation** with P
 We use the **[Gender Classification Dataset](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset)** from Kaggle.  
 It contains two categories of images:
 
-- 👨🏻 **Male**  
 - 👩🏻 **Female**
+- 👨🏻 **Male**  
 
 Images are divided into:
 - 📁 `Training/` — used for model training  
