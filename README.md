@@ -66,5 +66,5 @@ Images are divided into:
 
 1. ⬇️ Clone the repo:
    ```bash
-   git clone https://github.com/your-username/gender-detection-cnn.git
+   git clone https://github.com/DavtianAnna/gender-detection-cnn.git
    cd gender-detection-cnn
